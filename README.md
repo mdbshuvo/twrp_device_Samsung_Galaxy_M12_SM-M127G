@@ -1,0 +1,1 @@
+# twrp_device_Samsung_Galaxy_M12_SM-M127G
